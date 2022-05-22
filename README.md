@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sese1212&show_icons=true&theme=radical)
 
-### Tech Stacks 👌 <br/><br/>
+Tech Stacks 👌 <br/><br/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=white"/>
 <img alt="Spring" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
