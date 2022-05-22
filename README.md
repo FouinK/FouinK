@@ -2,9 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sese1212&show_icons=true&theme=radical)
 
-Language 👌 <br><br>
+Language 👌 <br/><br/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="Spring" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="Spring" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/><br/>
+<img alt="JQuery" src ="https://img.shields.io/badge/JQuery-CB3837.svg?&style=for-the-badge&logo=JQuery&logoColor=white"/>
 
 <!--
 **sese1212/sese1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
