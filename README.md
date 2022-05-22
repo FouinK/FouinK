@@ -2,8 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sese1212&show_icons=true&theme=radical)
 
-Language 👌
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+Language 👌 <br>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
 <!--
 **sese1212/sese1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
