@@ -8,7 +8,7 @@ Tech Stacks 👌 <br/><br/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-F05032.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 
-## Day's goal 💪 <br/><br/>
+Day's goal 💪 <br/>
 
 At least one commit !!
 
