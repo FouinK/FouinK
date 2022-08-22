@@ -7,6 +7,10 @@ Tech Stacks 👌 <br/><br/>
 <img alt="Spring" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-F05032.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+
+Day's goal 💪 <br/>
+At least one commit !!
+
 <!--
 **sese1212/sese1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
