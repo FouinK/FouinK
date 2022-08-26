@@ -7,7 +7,7 @@ Tech Stacks 👌 <br/><br/>
 <img alt="Spring" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-F05032.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img alt="React" src ="https://img.shields.io/badge/React-F05032.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
 
 Day's goal 💪 <br/>
 
