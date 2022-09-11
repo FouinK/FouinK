@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fouink&show_icons=true&theme=radical)
 
-##
+<br/><br/>
 
 ## Tech Stacks 👌 <br/><br/>
 Main :) <br/><br/>
