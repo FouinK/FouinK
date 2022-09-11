@@ -22,7 +22,7 @@ Sub :D <br/><br/>
 At least one commit !!
 
 ## My Resume :D 📑 <br/>
-https://www.notion.so/215834d943634d658faf934834693224
+<strong>https://www.notion.so/215834d943634d658faf934834693224</strong>
 
 
 <!--
