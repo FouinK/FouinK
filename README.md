@@ -1,5 +1,8 @@
 # Hi there :) 👋
 
+## My Resume :D 📑 <br/>
+https://www.notion.so/215834d943634d658faf934834693224
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fouink&show_icons=true&theme=radical)
 
 ## Tech Stacks 👌 <br/><br/>
