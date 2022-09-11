@@ -18,8 +18,12 @@ Sub :D <br/><br/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
+<br/><br/>
+
 ## Day's goal 💪 <br/>
 At least one commit !!
+
+<br/><br/>
 
 ## My Resume 🧾 <br/>
 <strong>https://www.notion.so/215834d943634d658faf934834693224</strong>
