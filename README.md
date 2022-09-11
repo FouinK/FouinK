@@ -21,7 +21,7 @@ Sub :D <br/><br/>
 ## Day's goal 💪 <br/>
 At least one commit !!
 
-## My Resume :D 📑 <br/>
+## My Resume 🧾 <br/>
 <strong>https://www.notion.so/215834d943634d658faf934834693224</strong>
 
 
