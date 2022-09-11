@@ -1,8 +1,5 @@
 # Hi there :) 👋
 
-## My Resume :D 📑 <br/>
-https://www.notion.so/215834d943634d658faf934834693224
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fouink&show_icons=true&theme=radical)
 
 ## Tech Stacks 👌 <br/><br/>
@@ -18,9 +15,13 @@ Main :) <br/><br/>
 Sub :D <br/><br/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-## Day's goal 💪 <br/>
 
+## Day's goal 💪 <br/>
 At least one commit !!
+
+## My Resume :D 📑 <br/>
+https://www.notion.so/215834d943634d658faf934834693224
+
 
 <!--
 **sese1212/sese1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
