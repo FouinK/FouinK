@@ -33,8 +33,6 @@ At least one commit !!!
 
 <br/><br/>
 
-## My Resume 🧾 <br/>
-<strong>https://www.notion.so/215834d943634d658faf934834693224</strong>
 
 
 <!--
@@ -44,6 +42,8 @@ Here are some ideas to get you started:
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=white"/>
 
 
+## My Resume 🧾 <br/>
+<strong>https://www.notion.so/215834d943634d658faf934834693224</strong>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
