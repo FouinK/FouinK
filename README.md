@@ -7,7 +7,7 @@
 
 <br/>
 
-## Tech Stacks 👌 <br/><br/>
+## Tech Stacks 👌 <br/>
 Main Stacks <br/>
   <div>
 <img alt="Spring" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
