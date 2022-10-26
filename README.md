@@ -36,7 +36,7 @@ At least one commit !!!
 <br/><br/><br/>
 
 
-## BaekJoon Tier :) <br/>
+## BaekJoon Tier 🏆 <br/>
 
 <!-- 백준티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wopa369)](https://solved.ac/wopa369/)
