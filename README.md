@@ -14,7 +14,6 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wopa369)](https://solved.ac/wopa369/)
   
-  <br/>
 <br/>
 
 
