@@ -12,7 +12,9 @@
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-F05032.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   </div>
   <br/>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wopa369)](https://solved.ac/wopa369/)
+  
   <br/>
 
 ## Day's goal 💪 <br/>
