@@ -1,5 +1,4 @@
 <!-- 커밋내역 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wopa369)](https://solved.ac/wopa369/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fouink&show_icons=true&theme=radical)
 
 <br/>
@@ -12,7 +11,7 @@
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-F05032.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   </div>
   <div>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wopa369)](https://solved.ac/wopa369/)
 
   </div>
   <br/>
