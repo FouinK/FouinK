@@ -1,8 +1,7 @@
 <!-- 커밋내역 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fouink&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wopa369)](https://solved.ac/wopa369/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fouink&show_icons=true&theme=radical)
 
-<br/>
 <br/>
 
 ## Tech Stacks 👌 <br/>
