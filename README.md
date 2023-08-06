@@ -9,6 +9,7 @@
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+<img alt="AWS" src ="https://img.shields.io/badge/Aws-4479A1.svg?&style=for-the-badge&logo=Aws&logoColor=white"/>
   </div>
   <br/>
   
