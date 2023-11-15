@@ -15,7 +15,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wopa369)](https://solved.ac/wopa369/)
   -->
-  <p >
+<p >
 <img src="https://github-readme-stats.vercel.app/api?username=fouink&show_icons=true&theme=dracula" alt="my github stats" width="450"/>
 </p>
 
